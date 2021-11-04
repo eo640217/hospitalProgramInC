@@ -1,4 +1,4 @@
-# hospitalProgramInC
+# Hospital Program In C Language
 # Name: Emmanuel Olufelo -- 2021-11-03;
 # Purpose of software: 
 Program for manipulating records of patients and employees in a hospital. The program will allow hospital administrators to query he data and to obtain some summary information. The data of patients and employees is initialized using the function populateRecords().
