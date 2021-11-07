@@ -5,11 +5,7 @@ Purpose: populate the records of the patient and the employee
 The file consists of several functions for ppopulating a person array and thus populating patient records and employee records
 in the array.
 
-The records are populated using random number generator. No special seed point is given (using the default seed of 1).
-
-
-Revisions:
-15/2/2018 - Doron Nussbaum file created
+The records are populated using random number generator. No special seed point is given (using the default seed of 1)
 
  */
 
