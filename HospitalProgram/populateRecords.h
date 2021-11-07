@@ -4,10 +4,6 @@ Purpose: populate the records of the patient and the employee
 
 The user can populate the reocrds of an array of tyupe person. 
 
-
-Revisions:
-October 2021 - Doron Nussbaum Updated version
-
 */
 
 
