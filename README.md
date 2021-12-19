@@ -7,6 +7,14 @@ Each patient that arrives at the hospital provides his/her name( first name, las
 the medical problem and the priority level (i.e how severe the medical issue is). Once accepted into the hospital the patient is tagged with an arrival order.
 
 # To compile program & run (ubuntu): 
-  1.  type make into the command line to make executable file.
-  2. ./er.out to run the executable.
-# No issues to take note of so far.
+  ```bash
+# Clone this repository
+$ git clone https://github.com/eo640217/hospitalProgramIn_C
+# Go into the repository
+$ cd hospitalProgramIn_C
+# Run the program
+$ make
+# Run the executable
+$ ./er.out
+```
+
