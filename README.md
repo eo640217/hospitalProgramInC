@@ -1,10 +1,12 @@
-# Hospital Program In C Language
-# Name: Emmanuel Olufelo -- 2021-11-03;
+# Hospital Management System Program In C Language
+# Name: Emmanuel Olufelo -- 2021-11-22;
 # Purpose of software: 
-Program for manipulating records of patients and employees in a hospital. The program will allow hospital administrators to query he data and to obtain some summary information. The data of patients and employees is initialized using the function populateRecords().
-The data is stored in an array , and the size of the array is given using the define NUM_RECORDS.
-Header files contain all the prototypes and the body for the functions are all in the .c files.
+API program for managing patients arriving at a hospital emergency room (ER). The system assists the doctors and nurses in the ER to decide the next patient
+who will be treated. It does so by reviewing the severity of the illness and the time that the patient came to the ER.
+Each patient that arrives at the hospital provides his/her name( first name, last name and ID) to the triage nurse, who also assesses the patient and then determines
+the medical problem and the priority level (i.e how severe the medical issue is). Once accepted into the hospital the patient is tagged with an arrival order.
+
 # To compile program & run (ubuntu): 
-  1. gcc -Wall employee.c patient.c populateRecords.c struct.h hospital.c -o hospitalProgram into the command line.
-  2. ./hospitalProgram {numberOfRecords}  //where numberOfRecords is the number of records you want to create.
+  1.  type make into the command line to make executable file.
+  2. ./er.out to run the executable.
 # No issues to take note of so far.
